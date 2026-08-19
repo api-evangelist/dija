@@ -39,7 +39,7 @@ x-name-collisions:
     unrelated to this company. Do not attribute artifacts.
 - domain: dija.now
   note: Reminder app reached via a 308 redirect from dija.io; unrelated to this company.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 x-enrichment:
