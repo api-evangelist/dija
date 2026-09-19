@@ -61,6 +61,12 @@ x-enrichment:
 tags:
 - Company
 - Consumer
+- Startups
+- Venture Backed
+- Portfolio
+tags_raw:
+- Company
+- Consumer
 - Startup
 - Venture Backed
 - Portfolio
