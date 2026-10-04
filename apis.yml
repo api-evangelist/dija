@@ -61,13 +61,11 @@ x-enrichment:
 tags:
 - Company
 - Consumer
-- Startups
 - Venture Backed
 - Portfolio
 tags_raw:
 - Company
 - Consumer
-- Startup
 - Venture Backed
 - Portfolio
 apis: []
@@ -76,3 +74,7 @@ maintainers:
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-tags-removed:
+- Startups
+x-company-stage: venture-backed
+x-company-stage-evidence: "own tags: Startup, Venture Backed, Portfolio"
